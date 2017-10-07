@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/jhfoo/zwavecontroller#readme",
   "dependencies": {
+    "axios": "^0.16.2",
+    "log4js": "^2.3.4",
+    "openzwave-shared": "^1.4.0",
     "restify": "^6.0.1"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
   }
 }
